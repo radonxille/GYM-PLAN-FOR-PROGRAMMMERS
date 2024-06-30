@@ -4,4 +4,4 @@ sudo git clone https://github.com/radonxille/GYM-PLAN-FOR-PROGRAMMMERS.git
 
 And make run the program
 
-sudo python3 GYM-PLAN-FOR-PROGRAMMMERS 
+sudo python3 workout.py
